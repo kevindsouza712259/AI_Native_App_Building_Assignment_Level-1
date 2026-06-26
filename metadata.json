@@ -1,0 +1,8 @@
+{
+  "name": "Retail Sales Intelligence Dashboard",
+  "description": "A business dashboard for analyzing retail weekly sales and store master datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
